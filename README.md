@@ -8,7 +8,7 @@ Update user details
 Stack used.
 Framework: Laravel 
 UI Scaffolding: InfyOm AdminLTE Templates
-Authentication: Lara
+Authentication: Laravel Sanctum
 
 Setup instructions.
 1.Create Laravel Project
